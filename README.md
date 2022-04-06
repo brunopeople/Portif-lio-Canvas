@@ -19,6 +19,17 @@ Este Repositório serve para representar o meu portifólio em que eu criei utili
  
  ![Móvel Lounge 1](https://user-images.githubusercontent.com/24817323/161995909-b8e375ad-fe28-49c9-a35e-62071d15ad71.png)
  
+ ## Móvel Lounge 2
+ 
+ Segunda ilustração feita estudando Photoshop.
+ 
+ ![Móvel Lounge 2](https://user-images.githubusercontent.com/24817323/161996808-7d147265-9ff2-4e03-afc1-80a808307878.png)
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
