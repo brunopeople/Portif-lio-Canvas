@@ -5,8 +5,8 @@ Este Repositório serve para representar o meu portifólio em que eu criei utili
 
 ![Bloodmon Festaival](https://user-images.githubusercontent.com/24817323/151865751-ce0f9dde-9f04-416e-b7d8-3402d5ab16ea.png)
 
-<p>Este projeto eu criei para praticando canvas eu peguei uma imagem que me lembra algo interessante e nela eu tive a ideia de criar um Festival de Músicas underground e adicionei algumas 
- figuras e fonst para que seja algo super interessante</p>
+<p>Este projeto eu criei para praticando canvas eu pesquisei por uma imagem que me lembra algo interessante e nela eu tive a ideia de criar um Festival de Músicas underground e adicionei algumas 
+ figuras como atrações de músicas e lojas que querem divulgar o seu material e adicionei uma fonte título para que seja algo super interessante e chamatica</p>
  
  
  ## Loja Morcegótica 
