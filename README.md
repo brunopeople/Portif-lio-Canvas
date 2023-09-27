@@ -12,7 +12,7 @@ Este Repositório serve para representar o meu portifólio em que eu criei utili
 ![3](https://github.com/brunopeople/Portifolio-SocialMedia/assets/24817323/71f45f5d-edc6-438e-aaad-ba9db832c739)
 ![4](https://github.com/brunopeople/Portifolio-SocialMedia/assets/24817323/7ffacae5-610a-40d6-9731-ad0534e76bb8)
 ![5](https://github.com/brunopeople/Portifolio-SocialMedia/assets/24817323/302d554c-135e-4e4a-a6fb-9d36d55cc5bd)
-![6](https://github.com/brunopeople/Portifolio-SocialMedia/assets/24817323/2d7b31ae-677d-453b-82a6-1a3a93ee9d6e
+![6](https://github.com/brunopeople/Portifolio-SocialMedia/assets/24817323/2d7b31ae-677d-453b-82a6-1a3a93ee9d6e)
 
 ## Bloodmoon Festival 
 
